@@ -1,0 +1,9 @@
+{
+    "name": "MutexLib",
+    "version": "0.1.1",
+    "title": "A library mod used by my other mods",
+    "author": "MutexMorgan",
+    "homepage": "https://mt.rns.space/vlr/factorio-hp",
+    "factorio_version": "0.18",
+    "dependencies": ["base"]
+}
